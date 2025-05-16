@@ -29,7 +29,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/your-username/motivation-meme-project.git
+git clone (https://github.com/NasrKashtu/Motivation-Meme-Project-/tree/main)
 cd motivation-meme-project
 Install dependencies:
 
