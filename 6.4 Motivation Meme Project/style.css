@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+
+    align-items: center;
+    color: white;
+}
+
+
+img {
+    border: 5px solid white;
+    width: 50%;
+
+}
+
+.poster {
+    text-align: center;
+    /* margin: auto 25%; */
+}
